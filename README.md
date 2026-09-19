@@ -47,7 +47,11 @@ The analysis is structured across progressive code blocks and markdown sections 
 * **Bonus Vectorized Operations:** Validates element-wise addition, subtraction, and multiplication across arrays `x` and `y`.
 
 ## Program Screenshots
-![Program Walkthrough Screenshot](./Program%20screenshot/your-image-name.png)
+![Program Walkthrough Screenshot](./Program%20screenshot/np_1.png)
+![Program Walkthrough Screenshot](./Program%20screenshot/np_2.png)
+![Program Walkthrough Screenshot](./Program%20screenshot/np_3.png)
+![Program Walkthrough Screenshot](./Program%20screenshot/np_4.png)
+![Program Walkthrough Screenshot](./Program%20screenshot/np_5.png)
 
 ## 9. Result
 * **Array Aggregation vs Concatenation:** Confirmed that standard Python lists perform general-purpose collection handling (concatenation), whereas NumPy arrays perform true mathematical aggregation.
